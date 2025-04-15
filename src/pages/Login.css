@@ -1,0 +1,26 @@
+/* pages/Login.css */
+
+.login-container {
+    justify-content: center;
+    display: flex;
+    margin-top: 16px;
+  }
+  
+  .container-title {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  
+  .login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 150px;
+    height: 125px;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 25px;
+    background-color: #007bff;
+  }
